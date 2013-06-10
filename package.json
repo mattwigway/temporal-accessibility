@@ -1,0 +1,9 @@
+{
+    "name": "generate-times",
+    "author": "mattwigway <matt@indicatrix.org>",
+    "version": "0.0.1",
+    "dependencies": {
+        "csv":"*",
+        "opening_hours": "git://github.com/AMDmi3/opening_hours.js.git#master"
+    }
+}
