@@ -22,3 +22,6 @@ GeoTIFF's. It runs in QGIS script runner.
 ## License
 
 This code is licensed under the Apache License, version 2.
+time_domain.js is from [netzwolf.info](http://www.netzwolf.info/en/cartography/osm/time_domain/)
+and is licensed under a Creative Commons Attribution-ShareAlike
+3.0 license.
